@@ -1,3 +1,4 @@
+
 # GM Media — website
 
 Static four-page site. No build step, no dependencies to install.
